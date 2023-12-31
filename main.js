@@ -3,7 +3,7 @@
 const API_KEY = '50d2199a-42dc-447d-81ed-d68a443b697e';
 const API_URL = 'http://tasks-api.std-900.ist.mospolytech.ru/api/tasks';
 
-const useAPI = true;
+const useAPI = false;
 
 let localTasks = [];
 
